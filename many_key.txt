@@ -1,0 +1,17 @@
+==========================
+Thanks for use it.
+
+Here are some tips to help you use this program.
+==========================
+
+After the GUI appears, press F12 twice in succession.
+
+Due to Windows settings, if you need to record in full-screen mode, maximize the overlay-window(mask window, mengban window) and let it run in the background.
+
+
+Download it from GitHub: https://github.com/ZoMaii/fuck-game-online
+
+
+
+
+
