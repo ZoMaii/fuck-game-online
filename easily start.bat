@@ -2,7 +2,7 @@
 setlocal
 
 :: 提醒
-echo Are you is installed Python 3.10+ on this PC ?
+echo Are you installed Python 3.10+ on this PC ?
 echo ===================================
 echo 		warning
 echo "You should review open-source code(bat,py) !"
